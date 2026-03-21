@@ -5931,7 +5931,7 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, LoGinDaTaUncRypTinG, ready_event
                             footer ="""[00FFFA]╔═•══•════════════════•══•═╗
 [FF1493]║ ⚡ [B][FFFF00]BOT INFO[FFFF00][/B] ⚡
 [00FFFA]║
-[FFFF00]║ 👤 المطور    :: [FF1493] PICOS AND AYMEN
+[FFFF00]║ 👤 المطور    :: [FF1493] PICOS AND CHNAWA
 [32CD32]║ 💻 الحالة        :: [32CD32]ONLINE
 [1E90FF]║ 🛠 الإصدار      :: [1E90FF]ENHANCED V2
 [00FFFA]╚═•══•════════════════•══•═╝"""
@@ -5946,7 +5946,7 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, LoGinDaTaUncRypTinG, ready_event
                             print(f"Help command detected from UID: {uid} in chat type: {response.Data.chat_type}")
 
                             # Header
-                            header = f"[b][c]{get_random_color()}Hey User Welcome To PICOS CODEX BOT"
+                            header = f"[b][c]{get_random_color()}Hey User Welcome To CHNAWA CODEX BOT"
                             await safe_send_message(response.Data.chat_type, header, uid, chat_id, key, iv)
                             await asyncio.sleep(0.2)
 
@@ -6080,7 +6080,7 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, LoGinDaTaUncRypTinG, ready_event
                             footer ="""[00FFFA]╔═•══•════════════════•══•═╗
 [FF1493]║ ⚡ [B][FFFF00]BOT INFO[FFFF00][/B] ⚡
 [00FFFA]║
-[FFFF00]║ 👤 Developer    :: [FF1493]PICOS
+[FFFF00]║ 👤 Developer    :: [FF1493]CHNAWA-BOT 
 [32CD32]║ 💻 Status        :: [32CD32]ONLINE
 [1E90FF]║ 🛠 Version      :: [1E90FF]ENHANCED V2
 [00FFFA]╚═•══•════════════════•══•═╝"""
