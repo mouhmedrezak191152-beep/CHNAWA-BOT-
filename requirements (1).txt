@@ -1,0 +1,11 @@
+requests
+flask
+psutil
+pytz
+aiohttp
+PyJWT
+protobuf
+protobuf-decoder
+pycryptodome
+pyfiglet
+cfonts
