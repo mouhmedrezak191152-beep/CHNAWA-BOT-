@@ -10076,7 +10076,7 @@ Modified by - PICOS
 3🤫3🤫. Mdtr Badge Join [0000FF]/s3 [uid]
 3🤫4🤫. Old V Badge Join [FFFF00]/s4 [uid]
 3🤫5🤫. Pro Badge Join [00AAFF]/s5 [uid]
-3🤫6🤫. All Badge Join [FF0000]/spam [uid]
+3🤫6🤫. All Badge Join [FF0000]/spm [uid]
 3🤫7🤫. Gali Friend [00CCFF]/gali [name]
 3🤫8🤫. Private Message [FFFF00]/dm [msg]
 3🤫9🤫. Equip Bundle [FF0000]/bundle [name]
@@ -10104,9 +10104,9 @@ Modified by - PICOS
                             # ───── Commands 51-62 ─────
                             help_6 = """
 5🤫1🤫. Bundle Spam [00FF00]/bb_lag [TeamCode]5🤫2🤫. TCP Store [FF00FF]/store
-5🤫3🤫. Spam Invite [00CCFF]/spm_inv [uid]
-5🤫4🤫. Spam Friend Requests [FFFF00]/spam_req [uid]
-5🤫5🤫. Spam Join Requests [00FF00]/spam_join [uid]
+5🤫3🤫. Spam Invite [00CCFF]/sp_inv [uid]
+5🤫4🤫. Spam Friend Requests [FFFF00]/sp_req [uid]
+5🤫5🤫. Spam Join Requests [00FF00]/sp_join [uid]
 5🤫6🤫. Play Emote Self [FF00FF]/e [emote]
 5🤫7🤫. Play Emote Player [00FF00]/e [uid] [emote]
 5🤫8🤫. Play Emote Without Bot [FF6600]/me [TeamCode] [emote]
